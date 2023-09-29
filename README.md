@@ -1,4 +1,4 @@
-# </> CodeDoc
+# </> CodeDoc 1
 CodeDoc is a desktop application build using latest web technologies (HTML5, CSS3, Election, React) to create a rich text editor for project documention. It is designed for making process of creating project documentations fast and easy.
 Feel the advantage of intuitive side-by-side interface for building documentation for your superb apps.
 
